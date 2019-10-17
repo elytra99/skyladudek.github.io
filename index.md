@@ -3,7 +3,7 @@ Skyla Dudek
 ###### skyladudek@icloud.com (204) 557-1148
 -----------------------------------------------------------------
 
-#### Education
+#### __Education__
 *University of Manitoba | 2016 – Present*  
 **BSc Computer Science**  
 **Minors in French Language & Culture and Asian Studies**  
@@ -11,7 +11,7 @@ Relevant coursework:
 * Technical Communication
 * Human-Computer Interaction
 
-#### Work Experience
+#### __Work Experience__
 **Grocery Clerk |** *July 2019 – Present*  
 Justin’s No Frills (*Loblaw Inc.*)
 * Documented grocery orders
@@ -30,7 +30,7 @@ Extra Foods (*Loblaw Inc.*)
 * Operated a computerized till
 * Provided customer service and communicated appropriately to patrons
 
-#### Projects
+#### __Projects__
 **Human-Computer Interaction |** *2019 – Present*  
 Restaurant Interface
 * Order menu items and print tickets
@@ -42,7 +42,7 @@ C# game
 * File-save and recovery system
 * High score and currency system
 
-#### Volunteer Experience
+#### __Volunteer Experience__
 **Undergraduate Research Assistant |** *2019 – Present*  
 Human-Computer Interaction Lab, University of Manitoba
 * Undergraduate Research Project – gamified technology to aid those living with depression.
@@ -55,7 +55,7 @@ Women in Computer Science, University of Manitoba
 **Independent Tutor |** *2018 – Present*
 * Helped high-school and university level students with mathematics and writing courses
 
-#### Skills
+#### __Skills__
 | Soft                          | Technical      | Language           |
 | :---                          |     :---       |          :---      |
 | Customer Service              | Processing     | French (Advanced)  |
