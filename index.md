@@ -10,7 +10,7 @@ Skyla Dudek
 Relevant coursework:
 * Technical Communication
 * Human-Computer Interaction
-------------------------------------------------------------------
+
 #### Work Experience
 **Grocery Clerk |** *July 2019 – Present*  
 Justin’s No Frills (*Loblaw Inc.*)
@@ -29,7 +29,7 @@ Extra Foods (*Loblaw Inc.*)
 Extra Foods (*Loblaw Inc.*)
 * Operated a computerized till
 * Provided customer service and communicated appropriately to patrons
--------------------------------------------------------------------
+
 #### Projects
 **Human-Computer Interaction |** *2019 – Present*  
 Restaurant Interface
@@ -41,7 +41,6 @@ Restaurant Interface
 C# game
 * File-save and recovery system
 * High score and currency system
---------------------------------------------------------------------
 
 #### Volunteer Experience
 **Undergraduate Research Assistant |** *2019 – Present*  
@@ -55,7 +54,7 @@ Women in Computer Science, University of Manitoba
 
 **Independent Tutor |** *2018 – Present*
 * Helped high-school and university level students with mathematics and writing courses
--------------------------------------------------------------------------
+
 #### Skills
 | Soft                          | Technical      | Language           |
 | :---                          |     :---       |          :---      |
