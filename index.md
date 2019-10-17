@@ -4,9 +4,9 @@ Skyla Dudek
 -----------------------------------------------------------------
 
 #### Education
-*University of Manitoba | 2016 – Present*
+*University of Manitoba | 2016 – Present*  
 **BSc Computer Science**
-**Minors in French Language & Culture and Asian Studies**
+**Minors in French Language & Culture and Asian Studies**  
 Relevant coursework:
 *  Technical Communication
 *  Human-Computer Interaction
