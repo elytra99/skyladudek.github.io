@@ -55,7 +55,7 @@ Women in Computer Science, University of Manitoba
 **Independent Tutor |** *2018 – Present*
 * Helped high-school and university level students with mathematics and writing courses
 
-#### __Skills__
+#### __Skills__  
 
 | Soft                          | Technical      | Language           |
 | :---                          |     :---       |          :---      |
