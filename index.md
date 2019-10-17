@@ -56,6 +56,7 @@ Women in Computer Science, University of Manitoba
 * Helped high-school and university level students with mathematics and writing courses
 
 #### __Skills__
+
 | Soft                          | Technical      | Language           |
 | :---                          |     :---       |          :---      |
 | Customer Service              | Processing     | French (Advanced)  |
