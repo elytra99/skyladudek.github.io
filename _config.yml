@@ -1,9 +1,14 @@
 theme: jekyll-theme-minimal
 title: Resume for Skyla Dudek
-description: Please view my resume to learn about me. You can view my README file to learn how to host your own resume on Github pages!
+description: Please view my resume to learn about me. You can also view my README file to learn how to host your own resume on Github pages!
 author: Skyla Dudek
 published: true
 date: 2019-10-31
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:
   - index.md
   - README.md
