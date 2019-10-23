@@ -4,3 +4,6 @@ description: Please view my resume to learn about me. You can view my README fil
 author: Skyla Dudek
 published: true
 date: 2019-10-31
+include:
+  - index.md
+  - README.md
