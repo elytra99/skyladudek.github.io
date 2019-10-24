@@ -60,4 +60,4 @@ Add additional notes about how to deploy this on a live system
 [Skyla Dudek](https://github.com/skyladudek) - Author of Resume and instructional README file  
 [Emily Nguyen]() - Peer editor and discussion member  
 [Stacey Anna]() - Peer editor and discussion member  
-[Jekyll minimal template authors](https://github.com/pages-themes/minimal)
+[Jekyll minimal template authors](https://github.com/pages-themes/minimal) - All contributors to the Jekyll 'minimal' template
