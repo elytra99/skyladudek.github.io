@@ -1,6 +1,6 @@
 # How to Host Your Resume on GitHub Pages with a Jekyll Theme
 
-This project displays an example of a resume created on Markdown and formatted with a Jekyll theme using GitHub pages. In the GitHub pages home repository, it also contains this README file which will instruct you on how to host your own resume on GitHub pages with a Jekyll theme, write your resume in Markdown using Atom as a text editor, and format your Jekyll front matter.  
+This project displays an example of a resume created on Markdown that is formatted with a Jekyll theme. In the GitHub pages home repository, it also contains this README file which gives instructions on how to host your own resume on GitHub pages with a Jekyll theme, write your resume in Markdown using Atom as a text editor, and format the Jekyll front matter for your theme.  
 
 ## Intended Audience
 
