@@ -37,7 +37,43 @@ In order to complete the described task you will need:
   c. Save your resume as FirstNameLastName.md wherever you'd like in your computer.
 
 #### Host your Resume on GitHub Pages
+**Create a new repository on your GitHub account**
+1. Login to your GitHub Account
+
+Once you have logged in, you should be on the `<Overview>` tab,       
+2. Click on the `<Repositories>` tab to the right      
+
+![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Repositories.png)
+
+3. Add a new repository
+![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/New.png)
+
+4. Name your repository `<user>.github.io` 
+
+5. Make your repository public so everyone can view your resume.
+
+6. Select the checkbox to initialize your repository with a README.
+
+7. Click "Create repository".
+
+**Use your new repository to host your Markdown resume on GitHub Pages**
+1. On GitHub go to your site's repository
+
+2. Select "Create new file"
+
+3. Create a new file called `index.md` this file will contain the content you want to be displayed on 
+   the GitHub page. In this case, your Markdown resume. 
+
+Under "Edit your file" you can copy the text from your Markdown resume file and paste it here
+4. Scroll down and select "Commit new file"
+
+5. Under your repository, click "Settings" and scroll down to the header "GitHub Pages"
+
+6. Click your site's URL to see your published page
+   Or, once viewing the link you can type it in in your browser to view the page
+
 #### Apply a Jekyll Theme to your Resume
+
 #### Format the Jekyll Front Matter to Edit the Jekyll Theme
 
 ```
