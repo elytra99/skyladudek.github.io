@@ -37,10 +37,11 @@ In order to complete the described task you will need:
   c. Save your resume as FirstNameLastName.md wherever you'd like in your computer.
 
 #### Host your Resume on GitHub Pages
-**Create a new repository on your GitHub account**
-1. Login to your GitHub Account
+Create a new repository on your GitHub account
+1. Login to your GitHub Account            
 
-Once you have logged in, you should be on the `<Overview>` tab,       
+   Once you have logged in, you should be on the `<Overview>` tab,    
+  
 2. Click on the `<Repositories>` tab to the right      
 
 ![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Repositories.png)
@@ -69,17 +70,16 @@ Once you have logged in, you should be on the `<Overview>` tab,
 
 5. Scroll down and select "Commit new file"
 
-6. Under your repository, click <Settings> and scroll down to the header <GitHub Pages>
+6. Under your repository, click <Settings> and scroll down to the header `<GitHub Pages>`
 
-7. Click your site's URL to see your published page
-   Or, once viewing the link you can type it in in your browser to view the page
+7. Click your site's URL to see your published page. Or, once viewing the link you can type it in in your browser to view the page
 
 #### Apply a Jekyll Theme to your Resume
 Now that your page is up, you can apply a Jekyll theme to make the aesthetics of your resume look less plain.
 
 1. Go back to the <Settings> tab in your repository
 
-2. Scroll back down to the <GitHub Pages> Header 
+2. Scroll back down to the `<GitHub Pages>` header 
 
 3. Select "Choose Theme" under <Theme Chooser>
   
@@ -100,24 +100,26 @@ better reflect what should be displayed on your webpage.
 4. Edit/add to the content of the file such as "title" and "author" to personalize it according to yourself
    You can read about Jekyll's front matter more [here](https://jekyllrb.com/docs/front-matter/)
 ```javascript
-title: Resume for <Your Name>
+"title: Resume for <Your Name>"
 ```
 5. Scroll down and select "Commit Changes" when finished
 
 You should now have your resume hosted online with GitHub pages using a Jekyll theme and custom front matter :smiley_cat:
 ### More Resources
-Visit:
-https://github.com/ to create your own GitHub account
-https://atom.io to download Atom for free
-https://jekyllrb.com/docs/variables/ to view a list of Jekyll front matter variables
-https://help.github.com/en/github/working-with-github-pages to discover more things you can add to your GitHub page!
+Visit:  
+https://github.com/ to create your own GitHub account  
+https://atom.io to download Atom for free  
+https://jekyllrb.com/docs/variables/ to view a list of Jekyll front matter variables  
+https://help.github.com/en/github/working-with-github-pages to discover more things you can add to your GitHub page!  
 
 ### FAQs 
 **Why aren't changes on my webpage showing up?**
+
 Changes on your webpage such as choosing a new theme may take a few minutes to 
 show up. Just wait and refresh the page.
 
 **Why isn't my Markdown file rendering properly even though my syntax is correct?**
+
 Certain things from your Markdown file such as tables may not show up correctly 
 on GitHub correctly because GitHub uses a specific "flavour" (standardization) of
 Markdown. Visit https://github.github.com/gfm/ for specification of GitHub 
