@@ -46,6 +46,7 @@ Once you have logged in, you should be on the `<Overview>` tab,
 ![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Repositories.png)
 
 3. Add a new repository
+
 ![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/New.png)
 
 4. Name your repository `<user>.github.io` 
@@ -64,36 +65,66 @@ Once you have logged in, you should be on the `<Overview>` tab,
 3. Create a new file called `index.md` this file will contain the content you want to be displayed on 
    the GitHub page. In this case, your Markdown resume. 
 
-Under "Edit your file" you can copy the text from your Markdown resume file and paste it here
-4. Scroll down and select "Commit new file"
+4. Under "Edit your file" you can copy the text of your Markdown resume file, and paste it here
 
-5. Under your repository, click "Settings" and scroll down to the header "GitHub Pages"
+5. Scroll down and select "Commit new file"
 
-6. Click your site's URL to see your published page
+6. Under your repository, click <Settings> and scroll down to the header <GitHub Pages>
+
+7. Click your site's URL to see your published page
    Or, once viewing the link you can type it in in your browser to view the page
 
 #### Apply a Jekyll Theme to your Resume
+Now that your page is up, you can apply a Jekyll theme to make the aesthetics of your resume look less plain.
+
+1. Go back to the <Settings> tab in your repository
+
+2. Scroll back down to the <GitHub Pages> Header 
+
+3. Select "Choose Theme" under <Theme Chooser>
+  
+4. Explore the themes on the page and select the one you want
+
+5. Click the "Select Theme" button to apply the theme
 
 #### Format the Jekyll Front Matter to Edit the Jekyll Theme
+Now that you have a theme selected, you can edit the Front Matter of the theme to 
+better reflect what should be displayed on your webpage.
 
-```
-until finished
-```
+1. Go back to the `<Code>` tab in your repository
 
+2. Click on the `<_config.yml>` folder
+
+3. Click the pen icon to edit the file
+
+4. Edit/add to the content of the file such as "title" and "author" to personalize it according to yourself
+   You can read about Jekyll's front matter more [here](https://jekyllrb.com/docs/front-matter/)
+```javascript
+title: Resume for <Your Name>
+```
+5. Scroll down and select "Commit Changes" when finished
+
+You should now have your resume hosted online with GitHub pages using a Jekyll theme and custom front matter :smiley_cat:
 ### More Resources
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Visit:
+https://github.com/ to create your own GitHub account
+https://atom.io to download Atom for free
+https://jekyllrb.com/docs/variables/ to view a list of Jekyll front matter variables
+https://help.github.com/en/github/working-with-github-pages to discover more things you can add to your GitHub page!
 
 ### FAQs 
+**Why aren't changes on my webpage showing up?**
+Changes on your webpage such as choosing a new theme may take a few minutes to 
+show up. Just wait and refresh the page.
 
-Add additional notes about how to deploy this on a live system
+**Why isn't my Markdown file rendering properly even though my syntax is correct?**
+Certain things from your Markdown file such as tables may not show up correctly 
+on GitHub correctly because GitHub uses a specific "flavour" (standardization) of
+Markdown. Visit https://github.github.com/gfm/ for specification of GitHub 
+Flavoured Markdown. 
 
 ### Authors and Acknowledgments
-[Skyla Dudek](https://github.com/skyladudek) - Author of Resume and instructional README file  
+[Skyla Dudek](https://github.com/skyladudek) :mushroom: - Author of Resume and instructional README file  
 [Emily Nguyen]() - Peer editor and discussion member  
 [Stacey Anna]() - Peer editor and discussion member  
 [Jekyll minimal template authors](https://github.com/pages-themes/minimal) - All contributors to the Jekyll 'minimal' template
