@@ -61,14 +61,16 @@ Create a new repository on your GitHub account
 **Use your new repository to host your Markdown resume on GitHub Pages**
 1. On GitHub go to your site's repository
 
-2. Select "Create new file" --
+2. Select "Create new file" 
+![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Create%20new.png)
 
 3. Create a new file called `index.md` this file will contain the content you want to be displayed on 
    the GitHub page. In this case, your Markdown resume. 
 
 4. Under "Edit your file" you can copy the text of your Markdown resume file, and paste it here --
 
-5. Scroll down and select "Commit new file" --
+5. Scroll down and select "Commit new file" 
+![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Commit%20new.png)
 
 6. Under your repository, click `<Settings>` and scroll down to the header `<GitHub Pages>`
 
@@ -81,11 +83,11 @@ Now that your page is up, you can apply a Jekyll theme to make the aesthetics of
 
 2. Scroll back down to the `<GitHub Pages>` header 
 
-3. Select "Choose Theme" under `<Theme Chooser>` --
+3. Select "Choose Theme" under `<Theme Chooser>` 
   
 4. Explore the themes on the page and select the one you want
 
-5. Click the "Select Theme" button to apply the theme --
+5. Click the "Select Theme" button to apply the theme 
 
 #### Format the Jekyll Front Matter to Edit the Jekyll Theme
 Now that you have a theme selected, you can edit the Front Matter of the theme to 
@@ -95,14 +97,16 @@ better reflect what should be displayed on your webpage.
 
 2. Click on the `<_config.yml>` folder
 
-3. Click the pen icon to edit the file --
+3. Click the pen icon to edit the file 
+![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Pen.png)
 
 4. Edit/add to the content of the file such as "title" and "author" to personalize it according to yourself
    You can read about Jekyll's front matter more [here](https://jekyllrb.com/docs/front-matter/)
 ```javascript
 "title: Resume for <Your Name>"
 ```
-5. Scroll down and select "Commit Changes" when finished --
+5. Scroll down and select "Commit changes" when finished 
+![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Commit%20changes.png)
 
 You should now have your resume hosted online with GitHub pages using a Jekyll theme and custom front matter :smiley_cat:
 ### More Resources
