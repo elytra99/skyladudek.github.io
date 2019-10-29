@@ -69,7 +69,7 @@ Now that you have your own resume in Markdown, we can host (publish) the file on
 3. Create a new file called `index.md`. This file will contain the content you want to be displayed on 
    the GitHub page, in this case, your Markdown resume. 
 
-4. Under "Edit your file", you can copy the text of your Markdown resume file, and paste it in the textbox below
+4. Under "Edit your file", you can copy the text of your Markdown resume file, and paste it in the available textbox
 
 5. Scroll down and select "Commit new file" 
 ![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Commit%20new.png)
