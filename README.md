@@ -64,8 +64,8 @@ Create a new repository on your GitHub account
 2. Select "Create new file" 
 ![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Create%20new.png)
 
-3. Create a new file called `index.md` this file will contain the content you want to be displayed on 
-   the GitHub page. In this case, your Markdown resume. 
+3. Create a new file called `index.md`. This file will contain the content you want to be displayed on 
+   the GitHub page, in this case, your Markdown resume. 
 
 4. Under "Edit your file" you can copy the text of your Markdown resume file, and paste it here --
 
@@ -87,7 +87,7 @@ Now that your page is up, you can apply a Jekyll theme to make the aesthetics of
   
 4. Explore the themes on the page and select the one you want
 
-5. Click the "Select Theme" button to apply the theme 
+5. Click the `Select Theme` button to apply the theme 
 
 #### Format the Jekyll Front Matter to Edit the Jekyll Theme
 Now that you have a theme selected, you can edit the Front Matter of the theme to 
