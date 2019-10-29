@@ -40,7 +40,7 @@ After you have done the necessary setup in the prerequisites section, you can no
 #### Host your Resume on GitHub Pages
 Now that you have your own resume in Markdown, we can host (publish) the file on a GitHub webpage. 
 
-##### Create a new repository on your GitHub account
+#### Create a new repository on your GitHub account
 1. Login to your GitHub Account            
 
    Once you have logged in, you should be on the `<Overview>` tab,    
@@ -60,7 +60,7 @@ Now that you have your own resume in Markdown, we can host (publish) the file on
 
 7. Click "Create repository".
 
-###### Use your new repository to host your Markdown resume on GitHub Pages
+#### Use your new repository to host your Markdown resume on GitHub Pages
 1. On GitHub go to your site's repository
 
 2. Select "Create new file" 
