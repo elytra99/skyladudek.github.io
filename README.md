@@ -50,7 +50,6 @@ Now that you have your own resume in Markdown, we can host (publish) the file on
 ![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/Repositories.png)
 
 3. Add a new repository
-
 ![](https://github.com/skyladudek/skyladudek.github.io/blob/master/images/New.png)
 
 4. Name your repository `<user>.github.io` 
