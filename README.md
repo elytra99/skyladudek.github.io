@@ -119,7 +119,7 @@ You should now have your resume hosted online with GitHub pages using a Jekyll t
 ### More Resources  
 [Create](https://github.com/) your own GitHub account  
 [Download](https://atom.io) Atom for free  
-[View](https://jekyllrb.com/docs/variables/) a list of Jekyll front matter variables you can use 
+[View](https://jekyllrb.com/docs/variables/) a list of Jekyll front matter variables you can use       
 [Discover](https://help.github.com/en/github/working-with-github-pages) more things you can add to your GitHub webpage!  
 
 ### FAQs 
