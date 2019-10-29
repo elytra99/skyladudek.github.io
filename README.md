@@ -131,6 +131,6 @@ Flavoured Markdown.
 
 ### Authors and Acknowledgments
 [Skyla Dudek](https://github.com/skyladudek) :mushroom: - Author of Resume and instructional README file  
-[Emily Nguyen]() - Peer editor and discussion member  
-[Stacey Anna]() - Peer editor and discussion member  
+[Emily Nguyen](http://guthub.com/emily0906) - :coffee: Peer editor and discussion member  
+[Anna Stacey]() - Peer editor and discussion member  
 [Jekyll minimal template authors](https://github.com/pages-themes/minimal) - All contributors to the Jekyll 'minimal' template
