@@ -83,7 +83,7 @@ Now that your page is up, you can apply a Jekyll theme to make the aesthetics of
 
 2. Scroll back down to the `<GitHub Pages>` header 
 
-3. Select "Choose Theme" under `<Theme Chooser>` 
+3. Select `Choose Theme` under `<Theme Chooser>` 
   
 4. Explore the themes on the page and select the one you want
 
