@@ -132,7 +132,7 @@ show up. Just wait and refresh the page.
 
 Certain things from your Markdown file such as tables may not show up correctly 
 on GitHub correctly because GitHub uses a specific "flavour" (standardization) of
-Markdown. Visit https://github.github.com/gfm/ for a specification of GitHub 
+Markdown. Visit [here](https://github.github.com/gfm/) for a specification of GitHub 
 Flavoured Markdown syntax. 
 
 ### Authors and Acknowledgments
